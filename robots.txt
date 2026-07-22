@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://DKarulin.github.io/notes-5sx736/sitemap.xml
